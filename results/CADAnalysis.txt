@@ -1,0 +1,16 @@
+
+************************************************************
+CAD Analysis: predanno_210108
+************************************************************
+
+Candidate detection results:
+    True positives: 985
+    False positives: 2649
+    False negatives: 67
+    True negatives: 0
+    Total number of candidates: 5686
+    Total number of nodules: 1052
+    Ignored candidates on excluded nodules: 2010
+    Ignored candidates which were double detections on a nodule: 42
+    Sensitivity: 0.936311787
+    Average number of candidates per scan: 6.403153153
