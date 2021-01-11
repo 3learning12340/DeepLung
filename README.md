@@ -20,9 +20,9 @@
 
 ## Results:
 
-![image](https://user-images.githubusercontent.com/23013229/104151044-e56be800-5416-11eb-805e-2d6882003dfd.png | width=800)
+![image](<img src="https://user-images.githubusercontent.com/23013229/104151044-e56be800-5416-11eb-805e-2d6882003dfd.png" width="800")
 
-![valid log](https://user-images.githubusercontent.com/23013229/104151403-e8b3a380-5417-11eb-8343-940487488220.png | width=800)
+![valid log](<img src="https://user-images.githubusercontent.com/23013229/104151403-e8b3a380-5417-11eb-8343-940487488220.png" width="800")
 
 CAD Analysis:
 Candidate detection results:
@@ -38,5 +38,5 @@ Candidate detection results:
 　　Average number of candidates per scan: 6.403153153 </br>
 
 
-![froc_predanno0 3](https://user-images.githubusercontent.com/23013229/103987393-616ff100-51c7-11eb-9e13-4e5786509c47.png | width=800)
+![froc_predanno0 3](<img src="https://user-images.githubusercontent.com/23013229/103987393-616ff100-51c7-11eb-9e13-4e5786509c47.png" width="800")
 
