@@ -16,7 +16,7 @@
 
 ## Download 
   LUNA16 dataset from https://luna16.grand-challenge.org/data/  
-
+  LIDC-IDRI dataset from https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
 
 ## Results:
 
