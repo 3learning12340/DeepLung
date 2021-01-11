@@ -7,10 +7,10 @@
   
 
 ## Dependecies: 
-  Ubuntu 18.04, python 3.7.7, CUDA 11.0, cudnn 7.6.5, NVIDIA driver 451.67, pytorch (1.5.1)
-  h5py (2.10.0), matplotlib (3.3.0), numpy (1.18.5), nvidia-ml-py (7.352.0), pandas (10.05)
-  pyparsing (2.4.7), scikit-image (0.17.2), scipy (1.4.1)
-  SimpleITK (1.2.4)
+  Ubuntu 18.04, python 3.7.7, CUDA 11.0, cudnn 7.6.5, NVIDIA driver 451.67, pytorch (1.5.1)</br>
+  h5py (2.10.0), matplotlib (3.3.0), numpy (1.18.5), nvidia-ml-py (7.352.0), pandas (10.05)</br>
+  pyparsing (2.4.7), scikit-image (0.17.2), scipy (1.4.1)</br>
+  SimpleITK (1.2.4)</br>
 
 
 ## Download 
