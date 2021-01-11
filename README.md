@@ -24,8 +24,8 @@
 
 <img src="https://user-images.githubusercontent.com/23013229/104151403-e8b3a380-5417-11eb-8343-940487488220.png" width="800">
 
-CAD Analysis:</br>
-Candidate detection results:</br>
+### CAD Analysis:
+　Candidate detection results:</br>
 　　True positives: 985 </br>
 　　False positives: 2649 </br>
 　　False negatives: 67 </br>
