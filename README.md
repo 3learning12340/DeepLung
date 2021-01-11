@@ -17,6 +17,12 @@
   LUNA16 dataset from https://luna16.grand-challenge.org/data/  
 
 
-## FROC:
+## Results:
+
+### Train:
+
+![train log](https://user-images.githubusercontent.com/23013229/104150643-8063c280-5415-11eb-9d8f-738ad919c542.png)
+
+### FROC
 ![froc_predanno0 3](https://user-images.githubusercontent.com/23013229/103987393-616ff100-51c7-11eb-9e13-4e5786509c47.png)
 
