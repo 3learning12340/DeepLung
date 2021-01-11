@@ -24,9 +24,9 @@
 
 <img src="https://user-images.githubusercontent.com/23013229/104151403-e8b3a380-5417-11eb-8343-940487488220.png" width="800">
 
-CAD Analysis:
+### CAD Analysis:
 Candidate detection results:
-　　True positives: 985 </br>
+　　True positives: 985 </br></br>
 　　False positives: 2649 </br>
 　　False negatives: 67 </br>
 　　True negatives: 0 </br>
@@ -36,7 +36,6 @@ Candidate detection results:
 　　Ignored candidates which were double detections on a nodule: 42 </br>
 　　Sensitivity: 0.936311787 </br>
 　　Average number of candidates per scan: 6.403153153 </br>
-
 
 <img src="https://user-images.githubusercontent.com/23013229/103987393-616ff100-51c7-11eb-9e13-4e5786509c47.png" width="800">
 
