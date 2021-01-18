@@ -13,6 +13,8 @@
   pyparsing (2.4.7), scikit-image (0.17.2), scipy (1.4.1)</br>
   SimpleITK (1.2.4)</br>
 
+## Docker image
+  https://hub.docker.com/repository/docker/morpheus9631/jupyter
 
 ## Download 
   LUNA16 dataset from https://luna16.grand-challenge.org/data/  
