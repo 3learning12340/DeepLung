@@ -18,7 +18,7 @@ From websit 1
 	Abdominal	(W:400,  L:40)
 	Bone		(W:2000, L:500)
 	Brain		(W:70,   L:30)   or (W:70,   L:35)   or (W:80 L:40)
-	CTA			(W:600,  L:170)  or (W:650,  L:225)
+	CTA		(W:600,  L:170)  or (W:650,  L:225)
 	Liver		(W:160,  L:60)
 	Lung		(W:1600, L:-600) or (W:1500, L:-500)
 	Mediastinal	(W:500,  L:50)
@@ -28,15 +28,6 @@ From websit 1
 
 From Website 2
 
-	soft tissue window: 
-		Level: +50 HU; Width: 350 HU (Range: −125 to +225)
-	
-	lung window: 
-		Level: −200 HU; Width: 2000 HU (Range: −1200 to +800)
-	
-	bone window: 
-		Level: 300 HU; Width: 2000 HU (Range: −700 to +1300)
-
-
-
-
+	soft tissue	(L:50,    W:350)
+	lung 		(L:-200, W:2000)
+	bone		(L:300,  W:2000)
