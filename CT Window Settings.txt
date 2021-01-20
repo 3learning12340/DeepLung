@@ -1,0 +1,35 @@
+CT Woindow settings:
+
+Abdominal	(W:400,  L:40)
+Bone		(W:2000, L:500)
+Brain		(W:70,   L:30)   or (W:70,   L:35)   or (W:80 L:40)
+CTA			(W:600,  L:170)  or (W:650,  L:225)
+Liver		(W:160,  L:60)
+Lung		(W:1600, L:-600) or (W:1500, L:-500)
+Mediastinal	(W:500,  L:50)
+Soft tissue	(W:350,  L:50)
+Stroke		(W:30,   L:30)
+
+# soft tissue window: 
+#    Level: +50 HU; Width: 350 HU (Range: −125 to +225)
+#
+# lung window: 
+#   Level: −200 HU; Width: 2000 HU (Range: −1200 to +800)
+#
+# bone window: 
+#    Level: 300 HU; Width: 2000 HU (Range: −700 to +1300)
+#
+
+
+# Abdomen      (L:10,    W:400)
+# Bone         (L:300,   W:2500) 
+# Brain        (W:70-80, L:30-40) # Non microdicom param
+# Felsenbein   (L:500,   W:4000)
+# Liver        (W:160,   L:60)    # Non microdicom param
+# Lung         (L:-400,  W:1600) 
+# Mediastinum  (L:10,    W:450)
+# Skull        (L:25,    W:95)
+# Soft tissue  (L:40,    W:400)   # or (W:350, L:50)
+# Stroke       (W:30,   L:30)     # Non microdicom param
+# Spine        (L:20,    W:300) 
+# Postmyelo    (L:200,   W:1000)
